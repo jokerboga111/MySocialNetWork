@@ -1,0 +1,1667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fed9ace8-d690-4473-8f5a-9f90f2624e52" name="Default" comment="" />
+    <ignored path="untitled4.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled4$TestJunit.coverage" NAME="TestJunit Coverage Results" MODIFIED="1455103060466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/untitled4$TestJunit4.coverage" NAME="TestJunit4 Coverage Results" MODIFIED="1455104467542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled4" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Massage/DaoMassageJDBC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/Chat/massage/LichnieDialogi.java" />
+        <option value="$PROJECT_DIR$/web/successRegistration.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_Service/Dao_Ather_Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_Service/JDBC_Ather_Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Info/Dao_Informaion_User.java" />
+        <option value="$PROJECT_DIR$/web/socc2s/erd/css/styles.css" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Hith_Education/Dao_User_Hith_Education.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/ContactInfo/Dao_Contact_Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Hith_Education/JDBC_User_Hith_Education.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/ContactInfo/JDBC_Contact_Info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Education/Dao_User_Education.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Education/JDBC_User_Education.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_life_Position/Dao_User_LIfe_Position.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_life_Position/JDBC_User_Life_Position.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Hobbys/Dao_User_Hobbys.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Hobbys/JDBC_User_Hobbys.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/Dao_User_Career/Dao_User_Career.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/Dao_User_Career/JDBC_USER_CAREER.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_service/User_Dao_service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_service/JDBC_User_service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_USER/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_USER/UserDaoJdbc.java" />
+        <option value="$PROJECT_DIR$/web/socc2s/erd/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Info/Iformation_User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Info/JDBC_InformationUser.java" />
+        <option value="$PROJECT_DIR$/web/socc2s/erd/Redactor.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Options_Page/Dao_Options_Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Options_Page/JDBC_Option_Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_My_Page/Dao_My_Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_My_Page/JDBC_My_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Zapisi_Page/Dao_Zapisi_Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Zapisi_Page/JDBC_Zapisi_Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Svayzi_so_mnoy/Dao_Svyazi_so_mnoy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Svayzi_so_mnoy/JDBC_Svyazi_so_mnoy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_page/Dao_ather_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_page/JDBC_ather_page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Opoveshenie_Email/Dao_Opoveshenie_Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Opoveshenie_Email/JDBC_Opoveshenie_Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Moment_Opoveshenie/Dao_Moment_opoveshenye.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Moment_Opoveshenie/JDBC_Moment_Opovechenye.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Email/Dao_Change_Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Email/JDBC_Change_Email.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Id/Dao_Change_Id.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Id/JDBC_Change_Id.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/Tests/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/AddUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Stena/JDBC_Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Video/JDBC_Video.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Photo/JDBC_Picture/JDBC_Picture.java" />
+        <option value="$PROJECT_DIR$/web/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Test_Log4J-3" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Test_Log4J-3" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="734" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.1546875" />
+    <property name="project.structure.side.proportion" value="0.2310536" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/ол/MoiSait/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/SRedactorOptions/MomentAcepted.java" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_Hobbys" />
+      <recent name="Galaxy.GalaxyServlet.TestoviyVariat.SFriends" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ол\MoiSait\web" />
+      <recent name="D:\ол\MoiSait\web\Photos" />
+      <recent name="D:\ол\MoiSait\web\socc2s\erd\css1" />
+      <recent name="D:\ол\MoiSait\web\socc2s\erd\Video_Gallery" />
+      <recent name="D:\ол\MoiSait\web\socc2s\erd\Video_Gallery\css1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ол\MoiSait\web\WEB-INF\lib" />
+      <recent name="D:\ол\MoiSait\src\main\resources" />
+      <recent name="D:\ол\MoiSait\src\main\java\Galaxy\Chat" />
+      <recent name="D:\ол\untitled4\web\socc2s\html5audioplayer-master\images\covers" />
+      <recent name="D:\ол\untitled4\web\socc2s\html5audioplayer-master\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Sound" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.MoiSait">
+    <configuration default="false" name="TestJunit4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="untitled4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJunit4" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_untitled4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50083" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.4.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Information" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.Information" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled5" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SelectMyMusic" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Galaxy.GalaxyServlet.TestoviyVariat.SSound.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Galaxy.GalaxyServlet.TestoviyVariat.SSound.SelectMyMusic" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled5" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Options_User.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Options_User.test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled5" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Galaxy.DataBase.Golovach_JDBC_Main.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Galaxy.DataBase.Golovach_JDBC_Main.Tests.Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled5" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MoiSait" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.29" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="untitled4:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_untitled4" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49498" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="untitled4:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Information" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SelectMyMusic" />
+      <item index="2" class="java.lang.String" itemvalue="Application.test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestJunit4" />
+      <item index="5" class="java.lang.String" itemvalue="Tomcat Server.MoiSait" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestJunit4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fed9ace8-d690-4473-8f5a-9f90f2624e52" name="Default" comment="" />
+      <created>1451771173006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1451771173006</updated>
+      <workItem from="1451771177280" duration="723000" />
+      <workItem from="1451772192384" duration="1139000" />
+      <workItem from="1451782021584" duration="180000" />
+      <workItem from="1451840708188" duration="651000" />
+      <workItem from="1451841438907" duration="1750000" />
+      <workItem from="1451843917791" duration="1422000" />
+      <workItem from="1451846456925" duration="23000" />
+      <workItem from="1451849389206" duration="748000" />
+      <workItem from="1451851295874" duration="1527000" />
+      <workItem from="1451854685028" duration="2079000" />
+      <workItem from="1451861706703" duration="1641000" />
+      <workItem from="1451863544616" duration="1901000" />
+      <workItem from="1452002960530" duration="1647000" />
+      <workItem from="1452004971511" duration="609000" />
+      <workItem from="1452035386660" duration="771000" />
+      <workItem from="1452098967641" duration="273000" />
+      <workItem from="1452100237470" duration="565000" />
+      <workItem from="1452101000516" duration="1709000" />
+      <workItem from="1452102946115" duration="2235000" />
+      <workItem from="1452105318495" duration="1053000" />
+      <workItem from="1452108046300" duration="593000" />
+      <workItem from="1452112728035" duration="1471000" />
+      <workItem from="1452114618561" duration="240000" />
+      <workItem from="1452115915559" duration="1829000" />
+      <workItem from="1452117841826" duration="769000" />
+      <workItem from="1452123344360" duration="307000" />
+      <workItem from="1452124873744" duration="1116000" />
+      <workItem from="1452167451850" duration="1146000" />
+      <workItem from="1452239263979" duration="1459000" />
+      <workItem from="1452241145521" duration="1282000" />
+      <workItem from="1452243030766" duration="708000" />
+      <workItem from="1452245034307" duration="1398000" />
+      <workItem from="1452247539698" duration="1151000" />
+      <workItem from="1452249364796" duration="257000" />
+      <workItem from="1452252534172" duration="1096000" />
+      <workItem from="1452253820213" duration="1670000" />
+      <workItem from="1452255642334" duration="1923000" />
+      <workItem from="1452258132381" duration="951000" />
+      <workItem from="1452260049159" duration="628000" />
+      <workItem from="1452260899000" duration="2015000" />
+      <workItem from="1452339188335" duration="826000" />
+      <workItem from="1452340106740" duration="1794000" />
+      <workItem from="1452342008488" duration="1849000" />
+      <workItem from="1452344241808" duration="1333000" />
+      <workItem from="1452346196963" duration="414000" />
+      <workItem from="1452347668788" duration="1535000" />
+      <workItem from="1452349861089" duration="293000" />
+      <workItem from="1452351232039" duration="1579000" />
+      <workItem from="1452353144386" duration="1736000" />
+      <workItem from="1452355913521" duration="1134000" />
+      <workItem from="1452426668630" duration="1753000" />
+      <workItem from="1452429014892" duration="1766000" />
+      <workItem from="1452431245595" duration="551000" />
+      <workItem from="1452432052136" duration="643000" />
+      <workItem from="1452433106977" duration="1784000" />
+      <workItem from="1452434999015" duration="488000" />
+      <workItem from="1452436836716" duration="1688000" />
+      <workItem from="1452441223936" duration="1430000" />
+      <workItem from="1452442823979" duration="12087000" />
+      <workItem from="1452455835882" duration="1402000" />
+      <workItem from="1452457583056" duration="1788000" />
+      <workItem from="1452459854623" duration="1241000" />
+      <workItem from="1452462087144" duration="1551000" />
+      <workItem from="1452464057294" duration="1765000" />
+      <workItem from="1452466601043" duration="859000" />
+      <workItem from="1452467606855" duration="1670000" />
+      <workItem from="1452470692449" duration="2399000" />
+      <workItem from="1452474191556" duration="1187000" />
+      <workItem from="1452475792753" duration="203000" />
+      <workItem from="1452524122129" duration="2103000" />
+      <workItem from="1452526377879" duration="1827000" />
+      <workItem from="1452528437271" duration="1716000" />
+      <workItem from="1452531145836" duration="986000" />
+      <workItem from="1452532413507" duration="1396000" />
+      <workItem from="1452534047296" duration="1512000" />
+      <workItem from="1452535684776" duration="1027000" />
+      <workItem from="1452536813259" duration="1703000" />
+      <workItem from="1452538753247" duration="1773000" />
+      <workItem from="1452540646680" duration="643000" />
+      <workItem from="1452542556403" duration="586000" />
+      <workItem from="1452543381230" duration="1124000" />
+      <workItem from="1452544683083" duration="649000" />
+      <workItem from="1452555109700" duration="1610000" />
+      <workItem from="1452557916647" duration="417000" />
+      <workItem from="1452558432248" duration="1205000" />
+      <workItem from="1452563270783" duration="1150000" />
+      <workItem from="1452597224480" duration="1360000" />
+      <workItem from="1452598813762" duration="2020000" />
+      <workItem from="1452601116238" duration="1721000" />
+      <workItem from="1452603945685" duration="1556000" />
+      <workItem from="1452605773884" duration="1659000" />
+      <workItem from="1452608450735" duration="1259000" />
+      <workItem from="1452698216676" duration="1194000" />
+      <workItem from="1452699670653" duration="1705000" />
+      <workItem from="1452703540895" duration="1850000" />
+      <workItem from="1452706726357" duration="1749000" />
+      <workItem from="1452708702537" duration="1593000" />
+      <workItem from="1452720648783" duration="858000" />
+      <workItem from="1452721932940" duration="1675000" />
+      <workItem from="1452723752297" duration="1461000" />
+      <workItem from="1452727440126" duration="1434000" />
+      <workItem from="1452729414762" duration="1597000" />
+      <workItem from="1452731116428" duration="525000" />
+      <workItem from="1452732607228" duration="639000" />
+      <workItem from="1452782041143" duration="337000" />
+      <workItem from="1452783359930" duration="711000" />
+      <workItem from="1452859735397" duration="1250000" />
+      <workItem from="1452861441309" duration="1620000" />
+      <workItem from="1452863648661" duration="1795000" />
+      <workItem from="1452865804048" duration="1778000" />
+      <workItem from="1452867733218" duration="1905000" />
+      <workItem from="1452869770922" duration="2257000" />
+      <workItem from="1452872156397" duration="2441000" />
+      <workItem from="1452874833523" duration="2106000" />
+      <workItem from="1452877939664" duration="999000" />
+      <workItem from="1452880142464" duration="1719000" />
+      <workItem from="1452882127150" duration="1596000" />
+      <workItem from="1452886186068" duration="1020000" />
+      <workItem from="1452888458115" duration="1555000" />
+      <workItem from="1452891326283" duration="1814000" />
+      <workItem from="1452947748198" duration="569000" />
+      <workItem from="1452948511421" duration="2175000" />
+      <workItem from="1452951936067" duration="1069000" />
+      <workItem from="1452953326856" duration="1675000" />
+      <workItem from="1452955241069" duration="1104000" />
+      <workItem from="1452956469699" duration="1606000" />
+      <workItem from="1452959900638" duration="206000" />
+      <workItem from="1453029141057" duration="1721000" />
+      <workItem from="1453031074967" duration="1915000" />
+      <workItem from="1453033169710" duration="1393000" />
+      <workItem from="1453034761319" duration="1175000" />
+      <workItem from="1453148605273" duration="52000" />
+      <workItem from="1453297121745" duration="1024000" />
+      <workItem from="1453298635190" duration="1521000" />
+      <workItem from="1453301196587" duration="1454000" />
+      <workItem from="1453302944384" duration="2785000" />
+      <workItem from="1453305935597" duration="1969000" />
+      <workItem from="1453309165293" duration="1922000" />
+      <workItem from="1453311550299" duration="1745000" />
+      <workItem from="1453314228952" duration="1420000" />
+      <workItem from="1453315971962" duration="1040000" />
+      <workItem from="1453318000666" duration="573000" />
+      <workItem from="1453318978524" duration="1651000" />
+      <workItem from="1453320952906" duration="924000" />
+      <workItem from="1453323239356" duration="342000" />
+      <workItem from="1453324650982" duration="1236000" />
+      <workItem from="1453375448709" duration="614000" />
+      <workItem from="1453378643479" duration="887000" />
+      <workItem from="1453379647270" duration="2141000" />
+      <workItem from="1453382003394" duration="1815000" />
+      <workItem from="1453384004569" duration="1271000" />
+      <workItem from="1453416630605" duration="128000" />
+      <workItem from="1453420161638" duration="864000" />
+      <workItem from="1453422068419" duration="1704000" />
+      <workItem from="1453424244229" duration="1567000" />
+      <workItem from="1453464016295" duration="205000" />
+      <workItem from="1453465050028" duration="1557000" />
+      <workItem from="1453468130345" duration="1988000" />
+      <workItem from="1453471193816" duration="78000" />
+      <workItem from="1453471668383" duration="1514000" />
+      <workItem from="1453473594960" duration="1807000" />
+      <workItem from="1453476357211" duration="1396000" />
+      <workItem from="1453478249045" duration="1053000" />
+      <workItem from="1453639893562" duration="85000" />
+      <workItem from="1453642040333" duration="592000" />
+      <workItem from="1453657354229" duration="86000" />
+      <workItem from="1453919013798" duration="587000" />
+      <workItem from="1453921475143" duration="1219000" />
+      <workItem from="1453922886057" duration="1000000" />
+      <workItem from="1453925310612" duration="1105000" />
+      <workItem from="1453926689952" duration="261000" />
+      <workItem from="1453927946951" duration="227000" />
+      <workItem from="1453928373107" duration="1223000" />
+      <workItem from="1453929816106" duration="1808000" />
+      <workItem from="1453931804854" duration="1251000" />
+      <workItem from="1453936125886" duration="13000" />
+      <workItem from="1453937458381" duration="1536000" />
+      <workItem from="1453939106671" duration="787000" />
+      <workItem from="1453940871878" duration="1366000" />
+      <workItem from="1453943580773" duration="1029000" />
+      <workItem from="1453944917932" duration="2127000" />
+      <workItem from="1453947244075" duration="1754000" />
+      <workItem from="1454074596843" duration="1316000" />
+      <workItem from="1454076465970" duration="1724000" />
+      <workItem from="1454080510204" duration="1610000" />
+      <workItem from="1454082494175" duration="1715000" />
+      <workItem from="1454084382223" duration="1871000" />
+      <workItem from="1454087319999" duration="1475000" />
+      <workItem from="1454089306871" duration="1718000" />
+      <workItem from="1454091577209" duration="1719000" />
+      <workItem from="1454093572144" duration="1484000" />
+      <workItem from="1454095720628" duration="1565000" />
+      <workItem from="1454143953428" duration="1522000" />
+      <workItem from="1454145894311" duration="370000" />
+      <workItem from="1454154414761" duration="938000" />
+      <workItem from="1454157910052" duration="668000" />
+      <workItem from="1454160945533" duration="678000" />
+      <workItem from="1454330135020" duration="573000" />
+      <workItem from="1454330807346" duration="1003000" />
+      <workItem from="1454333037257" duration="246000" />
+      <workItem from="1454524099339" duration="1976000" />
+      <workItem from="1454526249421" duration="2501000" />
+      <workItem from="1454528880669" duration="2082000" />
+      <workItem from="1454531133691" duration="1922000" />
+      <workItem from="1454533169503" duration="778000" />
+      <workItem from="1454536956058" duration="2127000" />
+      <workItem from="1454540044440" duration="1453000" />
+      <workItem from="1454542337868" duration="1955000" />
+      <workItem from="1454544399641" duration="1465000" />
+      <workItem from="1454546882219" duration="1338000" />
+      <workItem from="1454548649429" duration="844000" />
+      <workItem from="1454752791449" duration="1619000" />
+      <workItem from="1454754592453" duration="1791000" />
+      <workItem from="1454756809246" duration="2194000" />
+      <workItem from="1454760561694" duration="1143000" />
+      <workItem from="1454762752599" duration="572000" />
+      <workItem from="1454860875382" duration="339000" />
+      <workItem from="1454861569590" duration="96000" />
+      <workItem from="1454862996967" duration="1840000" />
+      <workItem from="1454864960176" duration="2141000" />
+      <workItem from="1454868096955" duration="727000" />
+      <workItem from="1454876844246" duration="2022000" />
+      <workItem from="1454879250400" duration="1882000" />
+      <workItem from="1454881247415" duration="1765000" />
+      <workItem from="1454883938504" duration="1306000" />
+      <workItem from="1454885662604" duration="1618000" />
+      <workItem from="1454887466211" duration="1441000" />
+      <workItem from="1454889874899" duration="1905000" />
+      <workItem from="1454891951686" duration="1727000" />
+      <workItem from="1454893837150" duration="1323000" />
+      <workItem from="1455101544616" duration="13564000" />
+      <workItem from="1455134104906" duration="3424000" />
+      <workItem from="1455193248134" duration="1729000" />
+      <workItem from="1455225411754" duration="63604000" />
+      <workItem from="1455304868781" duration="7492000" />
+      <workItem from="1455313479733" duration="47921000" />
+      <workItem from="1455403889942" duration="3721000" />
+      <workItem from="1455409954834" duration="2148000" />
+      <workItem from="1455446913760" duration="1158000" />
+      <workItem from="1455451173027" duration="5619000" />
+      <workItem from="1455457871910" duration="7605000" />
+      <workItem from="1455536691809" duration="7626000" />
+      <workItem from="1455560674246" duration="14471000" />
+      <workItem from="1455709738393" duration="31034000" />
+      <workItem from="1455874332431" duration="45541000" />
+      <workItem from="1455967828143" duration="4622000" />
+      <workItem from="1456054354023" duration="20882000" />
+      <workItem from="1456315501437" duration="545000" />
+      <workItem from="1456324660559" duration="379000" />
+      <workItem from="1456676641476" duration="329000" />
+      <workItem from="1456677358521" duration="570000" />
+      <workItem from="1456743197677" duration="8607000" />
+      <workItem from="1456777295426" duration="4827000" />
+      <workItem from="1456838421218" duration="7448000" />
+      <workItem from="1456939880935" duration="17244000" />
+      <workItem from="1457001099271" duration="677000" />
+      <workItem from="1457354930039" duration="384000" />
+      <workItem from="1457382765303" duration="14876000" />
+      <workItem from="1457527161566" duration="227000" />
+      <workItem from="1457707691871" duration="742000" />
+      <workItem from="1458220897627" duration="1332000" />
+      <workItem from="1458223377826" duration="96809000" />
+      <workItem from="1458386489636" duration="203000" />
+      <workItem from="1458738126798" duration="6840000" />
+      <workItem from="1458823032171" duration="58634000" />
+      <workItem from="1458911147067" duration="365000" />
+      <workItem from="1458912584688" duration="9853000" />
+      <workItem from="1458989496805" duration="11327000" />
+      <workItem from="1459035290402" duration="501000" />
+      <workItem from="1459089177573" duration="2065000" />
+      <workItem from="1459155823947" duration="8942000" />
+      <workItem from="1459168298591" duration="5144000" />
+      <workItem from="1459861635998" duration="2354000" />
+      <workItem from="1459970060278" duration="8249000" />
+      <workItem from="1460028672085" duration="3112000" />
+      <workItem from="1460101563948" duration="13386000" />
+      <workItem from="1460117959786" duration="4027000" />
+      <workItem from="1460279732214" duration="30717000" />
+      <workItem from="1460618556776" duration="3631000" />
+      <workItem from="1460658291750" duration="709000" />
+      <workItem from="1460663112055" duration="1831000" />
+      <workItem from="1460740133363" duration="773000" />
+      <workItem from="1468602138839" duration="738000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="917144000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="734" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46352583" sideWeight="0.5030488" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902735" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67364746" sideWeight="0.49695122" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8376963" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3129771" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826748" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902735" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpSession.class</url>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Education/JDBC_User_Education.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="170" column="28" selection-start-line="170" selection-start-column="28" selection-end-line="170" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/Dao_User_Career/Dao_User_Career.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Hobbys/JDBC_User_Hobbys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="185" column="25" selection-start-line="160" selection-start-column="0" selection-end-line="193" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_service/User_Dao_service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/Dao_User_Career/JDBC_USER_CAREER.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="171" column="9" selection-start-line="141" selection-start-column="0" selection-end-line="171" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_service/JDBC_User_service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="118" column="80" selection-start-line="118" selection-start-column="80" selection-end-line="118" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/Chat/DialogExm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Massage/DaoMassageJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="329" column="22" selection-start-line="320" selection-start-column="8" selection-end-line="347" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/UserAccount/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="136" column="15" selection-start-line="136" selection-start-column="15" selection-end-line="136" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_USER/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Options/User_Options.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Info/Iformation_User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="94" column="27" selection-start-line="94" selection-start-column="27" selection-end-line="94" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/socc2s/erd/Redactor.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="314" column="56" selection-start-line="314" selection-start-column="56" selection-end-line="314" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Information_User/User_Info/JDBC_InformationUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="156" column="49" selection-start-line="156" selection-start-column="49" selection-end-line="156" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_Service/Dao_Ather_Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="68" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_USER/UserDaoJdbc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="389" column="68" selection-start-line="389" selection-start-column="68" selection-end-line="389" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Options_Page/Dao_Options_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="64" selection-start-line="0" selection-start-column="64" selection-end-line="0" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_Service/JDBC_Ather_Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="210" column="29" selection-start-line="190" selection-start-column="8" selection-end-line="224" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Email/Change_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_My_Page/Dao_My_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_My_Page/JDBC_My_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="166" column="14" selection-start-line="166" selection-start-column="8" selection-end-line="196" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Zapisi_Page/Dao_Zapisi_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Zapisi_Page/JDBC_Zapisi_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="129" column="7" selection-start-line="129" selection-start-column="7" selection-end-line="154" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Svayzi_so_mnoy/Dao_Svyazi_so_mnoy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Svayzi_so_mnoy/JDBC_Svyazi_so_mnoy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="145" column="25" selection-start-line="132" selection-start-column="8" selection-end-line="158" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_page/Dao_ather_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Options_Page/JDBC_Option_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Opoveshenie_Email/Dao_Opoveshenie_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="85" selection-start-line="26" selection-start-column="85" selection-end-line="26" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Opoveshenie_Email/JDBC_Opoveshenie_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="253" column="24" selection-start-line="224" selection-start-column="8" selection-end-line="261" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Ather_page/JDBC_ather_page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="133" column="9" selection-start-line="110" selection-start-column="8" selection-end-line="133" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Options_Page/Options_Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Moment_Opoveshenie/JDBC_Moment_Opovechenye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="115" column="17" selection-start-line="114" selection-start-column="5" selection-end-line="138" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Id/Dao_Change_Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Email/JDBC_Change_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="102" column="3" selection-start-line="102" selection-start-column="3" selection-end-line="125" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/Tests/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Moment_Opoveshenie/Dao_Moment_opoveshenye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Email/Dao_Change_Email.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Options_User/Dao_Change_Id/JDBC_Change_Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="116" column="31" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/AddUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="113" column="25" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/socc2s/erd/Options.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/socc2s/erd/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="395" column="45" selection-start-line="395" selection-start-column="45" selection-end-line="395" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/SDialogs/poiscDialoga.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/SRedactorUserInformation/RedacorUserInformationv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/GalaxyServlet/TestoviyVariat/SDialogs/DialogiMoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/Connections/ConnectionFacoryJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="15" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Photo/JDBC_Picture/JDBC_Picture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1460740855938" expanded="true" signature="661:709" placeholder="SELECT * FRO..my_photo..." />
+            <marker date="1460740855938" expanded="true" signature="1530:1542" placeholder="SELECT * FRO..my_photo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/Chat/ChatListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Video/JDBC_Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1460740855867" expanded="true" signature="835:878" placeholder="SELECT * FRO..my_video..." />
+            <marker date="1460740855867" expanded="true" signature="1696:1708" placeholder="SELECT * FRO..my_video..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Galaxy/DataBase/Golovach_JDBC_Main/JDBC_Stena/JDBC_Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="126" column="47" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
+          <folding>
+            <marker date="1460740855812" expanded="true" signature="579:633" placeholder="INSERT INTO ..." />
+            <marker date="1460740855812" expanded="true" signature="1013:1059" placeholder="SELECT * FRO..stena..." />
+            <marker date="1460740855812" expanded="true" signature="4316:4324" placeholder="SELECT * FRO..stena..." />
+            <marker date="1460740855812" expanded="true" signature="5850:5858" placeholder="SELECT * FRO..stena..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>untitled4:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12316176" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12316176" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-core:3.1.0.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2310536" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2310536" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>untitled5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2310536" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-4.2.4.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2310536" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<bean id="userDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_USER.UserDaoJdbc"/>
+    <bean id="friendDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Friends.DaoFriendJDBC"/>
+    <bean id="soundDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Sound.SoundDaoJDBC"/>
+    <bean id="masageDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Massage.DaoMassageJDBC"/>
+    <bean id="groupDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_GROUPS.DaoGroupsJDBC"/>
+    <bean id="photoDao" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Photo.PhotoDaoJDBC"/>
+    <bean id="InformationUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_Info.JDBC_InformationUser"/>
+    <bean id="HithEducatUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_Hith_Education.JDBC_User_Hith_Education"/>
+    <bean id="LifePosition" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_life_Position.JDBC_User_Life_Position"/>
+    <bean id="EducationUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_Education.JDBC_User_Education"/>
+    <bean id="ContactUser1" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.ContactInfo.JDBC_Contact_Info"/>
+    <bean id="HobbyUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_Hobbys.JDBC_User_Hobbys"/>
+    <bean id="CarreaUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.Dao_User_Career.JDBC_USER_CAREER"/>
+    <bean id="serrviceUser" class="Galaxy.DataBase.Golovach_JDBC_Main.JDBC_Information_User.User_service.JDBC_User_service"/>
+</beans>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="UploadFilesLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/UploadFilesLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cp">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/Galaxy/Chat/java_jail-master.jar!/java_jail-master/cp" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/Galaxy/Chat/java_jail-master.jar!/java_jail-master/cp/stdlib" />
+    </SOURCES>
+  </library>
+</component>

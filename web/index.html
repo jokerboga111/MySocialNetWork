@@ -1,0 +1,30 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Galaxy</title>
+	<link rel="stylesheet" href="ren.css" media="screen" type="text/css" />
+</head>
+<body>
+
+
+    <div id="login">
+
+
+
+
+
+
+                <form action="Registration" method="post">
+                <p><span class="fontawesome-user"></span><input type="text" value="Логин" name="login" onBlur="if(this.value == '') this.value = 'Логин'" onFocus="if(this.value == 'Логин') this.value = ''" required></p> <!-- JS because of IE support; better: placeholder="Username" -->
+                    <p><span class="fontawesome-lock"></span><input type="password"  value="Пароль" name="password" onBlur="if(this.value == '') this.value = 'Пароль'" onFocus="if(this.value == 'Пароль') this.value = ''" required></p> <!-- JS because of IE support; better: placeholder="Password" -->
+                    <p><input type="submit" value="ВОЙТИ"></p>
+                    </form>
+
+
+        <p>Нет аккаунта? &nbsp;&nbsp;<a href="registretion1.html">Регистрация</a><span class="fontawesome-arrow-right"></span></p>
+    </div>
+
+
+</body>
+</html>

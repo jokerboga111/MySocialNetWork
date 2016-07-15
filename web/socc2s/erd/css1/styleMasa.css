@@ -1,0 +1,124 @@
+#reder1 {
+   height: 800px;
+
+   width: 600px;
+   background-color: #1ab394;
+   border-radius:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top: 5px;
+
+}
+#reder2 {
+    width: 580px;
+   height: 780px;
+   background-color: #ffffff ;
+   border-radius:5px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    float:right;
+}
+.reder3 {
+   display:inline;
+   height: 80px;
+   width: 560px;
+   background-color: #ffffff ;
+   border-radius:5px;
+    margin-bottom:10px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    float:right;
+    border: solid;
+    border-color:#1ab394;
+    border-width: 1px; 
+}
+
+.img1{
+height: 60px;
+width: 60px;
+}
+.SerName{
+height: 10px;
+width: 100px;
+margin-top: 10px;
+float:left;
+color: #c0c0c0;
+}
+.Img{
+height: 60px;
+width: 60px;
+margin-left:30px;
+margin-top: 10px;
+margin-right:10px;
+float:left;
+}
+.time{
+height: 10px;
+width: 100px;
+margin-top: 10px;
+margin-left:250px;
+float:left;
+color: #c0c0c0;
+}
+
+.massage{
+margin-top: 20px;
+float:left;
+}
+
+#Sender{
+width: 597px;
+height: 120px;
+   background-color: #ffffff ;
+   border-radius:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top: 5px;
+    border: solid;
+    border-color:#1ab394;
+    border-width: 2px; 
+}
+
+.ImgAtar{
+height: 50px;
+width: 50px;
+margin-left:90px;
+margin-top:10px;
+margin-right:10px;
+float:left;
+}
+#BlockSend{
+    margin-top:10px;
+float: left;
+    margin-left:10px;
+}
+textarea{
+margin-top:10px;
+resize: none;
+margin-left:10px;
+height: 60px;
+width: 300px;
+}
+#Bottom{
+height: 20px;
+width: 50px;
+    margin-left:160px;
+    margin-top:60px;
+    color: #ffffff;
+    font-size: 10px;
+}
+button{
+    margin-top:60px;
+margin-left:160px;
+height: 20px;
+width: 80px;
+background-color: #1ab394;
+border-width: 0px; 
+color: #ffffff;
+font-size: 10px;
+}

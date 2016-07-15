@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Galaxy</title>
+    <link rel="stylesheet" href="ren.css" media="screen" type="text/css" />
+</head>
+<body>
+
+
+<div id="login">
+
+
+<div id="diar">
+    <form action="AddUser" method="post">
+        Логин:
+        <p><span  class="fontawesome-user"></span><input type="text" value="Логин" name="login" onBlur="if(this.value == '') this.value = 'Логин'" onFocus="if(this.value == 'Логин') this.value = ''" required></p>
+        Пароль:
+        <p><span  class="fontawesome-lock"></span><input type="password"  value="Пароль" name="password" onBlur="if(this.value == '') this.value = 'Пароль'" onFocus="if(this.value == 'Пароль') this.value = ''" required></p>
+        Повторить пароль:
+        <p><span class="fontawesome-lock"></span><input type="password" value="Пароль" name="password2" onBlur="if(this.value == '') this.value = 'Логин'" onFocus="if(this.value == 'Пароль') this.value = ''" required></p>
+        Еmail:
+        <p><span class="fontawesome-envelope"></span><input type="text"  value="Email" name="email" onBlur="if(this.value == '') this.value = 'Пароль'" onFocus="if(this.value == 'Email') this.value = ''" required></p>
+        Имя:
+        <p><span class="fontawesome-lock"></span><input type="text"  value="Имя" name="name" onBlur="if(this.value == '') this.value = 'Пароль'" onFocus="if(this.value == 'Имя') this.value = ''" required></p>
+        Фамилия:
+        <p><span class="fontawesome-user"></span><input type="text" value="Фамилия" name="lastname" onBlur="if(this.value == '') this.value = 'Логин'" onFocus="if(this.value == 'Фамилия') this.value = ''" required></p>
+        Возраст:
+        <p><span class="fontawesome-lock"></span><input type="text"  value="Возраст" name="age" onBlur="if(this.value == '') this.value = 'Пароль'" onFocus="if(this.value == 'Возраст') this.value = ''" required></p>
+
+        <p><input type="submit" name="save" value="РЕГИСТРАЦИЯ"></p>
+    </form>
+
+</div>
+</div>
+
+</body>
+</html>
